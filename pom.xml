@@ -21,6 +21,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <prometheus.version>0.0.21</prometheus.version>
+        <sonar.projectName>Cart</sonar.projectName>
+        <sonar.projectKey>Cart</sonar.projectKey>
     </properties>
 
     <dependencies>
